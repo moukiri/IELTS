@@ -1,0 +1,144 @@
+单词 	词性	  含义 	  动词原形 	  过去式 	   过去分词 
+typical	adj.	典型的			
+grassland	n.	草原			
+dwellers	n.	居民	dwell	dwelt / dwelled	dwelt / dwelled
+continent	n.	大陆，洲			
+antelope	n.	羚羊			
+pronghorn	n.	叉角羚			
+irritating	adj.	刺激性的	irritate	irritated	irritated
+effect	n.	影响			
+phenol	n.	苯酚			
+general	adj.	通用的			
+antiseptic	n.	消毒剂			
+largely	adv.	很大程度上			
+content	n./adj.	内容/满足的			
+remain	v.	保持，依然	remain	remained	remained
+existence	n.	存在	exist	existed	existed
+profit-making	adj.	营利性的			
+produce	v.	生产	produce	produced	produced
+consider	v.	考虑	consider	considered	considered
+desirable	adj.	值得拥有的			
+simply	adv.	简单地			
+directly	adv.	直接地			
+effectively	adv.	有效地			
+employ	v.	采用	employ	employed	employed
+flowery	adj.	辞藻华丽的			
+vague	adj.	含糊的			
+expressions	n.	表达			
+obscure	v./adj.	遮掩/默默无闻	obscure	obscured	obscured
+mean	v.	意思是	mean	meant	meant
+meaning	n.	意思			
+mechanized	adj.	机械化的	mechanize	mechanized	mechanized
+attempt	v.	试图，尝试	attempt	attempted	attempted
+severe	adj.	严厉的			
+serve	v.	服务	serve	served	served
+interiors	n.	室内			
+personalize	v.	使个性化	personalize	personalized	personalized
+libel	n.	文字诽谤			
+slander	n.	言语诋毁			
+joint	n./adj.	关节, 联合的			
+thigh bone	n.	股骨, 大腿骨			
+lower leg	n.	小腿			
+meet	v.	相接, 遇见	meet	met	met
+effort	n.	努力			
+Acid	n.	酸			
+bases	n.	碱, 基底			
+metals	n.	金属			
+ability	n.	能力			
+compound	n.	化合物			
+solution	n.	溶液, 解决方案			
+sharp	adj.	锋利的, 刺激性的			
+corrosive	n./adj.	腐蚀性的			
+corrode	v.	腐蚀	corrode	corroded	corroded
+corrosion	n.	腐蚀现象			
+certain	n./adj.	某些, 确定的			
+dyes	n.	染料			
+litmus	n.	石蕊			
+turn	v.	转变, 变成	turn	turned	turned
+white	adj.	白色的			
+frog	n.	青蛙			
+reputation	n.	声誉, 名气			
+rest	v.	取决于, 休息	rest	rested	rested
+depend	v.	依赖, 取决于	depend	depended	depended
+base	v.	以...为基础	base	based	based
+emotional	adj.	情感的, 情绪化的			
+depth	n.	深度			
+give	v.	给予, 赋予	give	gave	given
+happiness	n.	幸福, 快乐			
+speak	v.	说话, 讲	speak	spoke	spoken
+understand	v.	理解, 明白	understand	understood	understood
+communicate	v.	沟通, 交流	communicate	communicated	communicated
+through	prep.	通过, 穿过			
+facial	adj.	面部的			
+expressions	n.	表情, 表达			
+By	prep.	通过(某种动作)			
+do	v.	做, 进行	do	did	done
+noises	n.	噪音, 声音			
+able	adj.	能够, 有能力的			
+mechanical	adj.	机械的			
+timepieces	n.	计时器, 钟表			
+spur	v.	刺激, 激励	spur	spurred	spurred
+accurate	adj.	精确的, 准确的			
+sundials	n.	日晷			
+regulate	v.	校准, 调节	regulate	regulated	regulated
+pen	n.	钢笔, 笔			
+write	v.	写	write	wrote	written
+Anthropology	n.	人类学			
+science	n.	科学			
+anthropologists	n.	人类学家			
+rigorous	adj.	严格的, 严谨的			
+methods	n.	方法			
+observation	n.	观察, 观察结果			
+technique	n.	技术, 技巧			
+document	v.	记录	document	documented	documented
+check	v.	检查, 检验	check	checked	checked
+in that	conj.	在于, 因为	
+fungi	n. (可数)	真菌			
+process	n.	过程			
+soil	n.	土壤			
+enhance	v.	增强, 提升	enhance	enhanced	enhanced
+ingredient	n.	配方, 成分, 养分			
+debris	n.	碎屑, 残骸			
+fertility	n.	生育力, 肥沃度			
+decay	n./v.	腐烂, 分解	decay	decayed	decayed
+decompose	v.	分解	decompose	decomposed	decomposed
+struck	v. (過去分詞)	敲打	strike	struck	struck
+stuck	v. (過去分詞)	卡住	stick	stuck	stuck
+almost	adv.	几乎			
+pitch	n.	音高, 沥青			
+tone	n.	语气, 音			
+tongue	n.	舌头			
+pure	adj.	纯的			
+period	n.	时期			
+over a long period of time	phrase	在很长一段时间内			
+retaining	v. (現在分詞)	保留	retain	retained	retained
+retain	v. (及物)	保持	retain	retained	retained
+remain	v. (不及物)	保持...的状态	remain	remained	remained
+its	poss. pron.	它的			
+its pitch	phrase	它的高音			
+it's	phrase	它是			
+although	conj.	虽然			
+pecans	n.	碧根果, 核桃			
+plentiful	adj.	丰富的, 很多的			
+as far north as	phrase	远至北方			
+found	v. (過去分詞)	被发现	find	found	found
+they are found	phrase	他们被发现			
+eliminate	v.	排除	eliminate	eliminated	eliminated
+often	adv.	经常			
+transfer	v.	转移	transfer	transferred	transferred
+blame	v.	责备	blame	blamed	blamed
+scapegoat	n.	替罪羊			
+is often called	phrase	通常被称为			
+by transferring	phrase	通过转移			
+transfer...to...	phrase	把...转移到...			
+depend	v.	依靠, 取决于	depend	depended	depended
+largely	adv.	很大程度上			
+depend largely on	phrase	很大程度上取决于			
+climate	n.	气候			
+what grows	phrase	生长的作物			
+The chief foods eaten	phrase	主要被食用的食物			
+are eaten	phrase	被吃			
+occur	v.	发生	occur	occurred	occurred
+equal	adj.	平等的, 等于			
+over a very large number of	phrase	经过极大量次数的			
+event's occurring	phrase	事件的发生		
