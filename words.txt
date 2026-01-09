@@ -1,41 +1,41 @@
-单词 	词性	  含义 	  动词原形 	  过去式 	   过去分词 
-typical	adj.	典型的			
-grassland	n.	草原			
-dwellers	n.	居民	dwell	dwelt / dwelled	dwelt / dwelled
-continent	n.	大陆，洲			
-antelope	n.	羚羊			
-pronghorn	n.	叉角羚			
-irritating	adj.	刺激性的	irritate	irritated	irritated
-effect	n.	影响			
-phenol	n.	苯酚			
-general	adj.	通用的			
-antiseptic	n.	消毒剂			
-largely	adv.	很大程度上			
-content	n./adj.	内容/满足的			
-remain	v.	保持，依然	remain	remained	remained
-existence	n.	存在	exist	existed	existed
-profit-making	adj.	营利性的			
-produce	v.	生产	produce	produced	produced
-consider	v.	考虑	consider	considered	considered
-desirable	adj.	值得拥有的			
-simply	adv.	简单地			
-directly	adv.	直接地			
-effectively	adv.	有效地			
-employ	v.	采用	employ	employed	employed
-flowery	adj.	辞藻华丽的			
-vague	adj.	含糊的			
-expressions	n.	表达			
-obscure	v./adj.	遮掩/默默无闻	obscure	obscured	obscured
-mean	v.	意思是	mean	meant	meant
-meaning	n.	意思			
-mechanized	adj.	机械化的	mechanize	mechanized	mechanized
-attempt	v.	试图，尝试	attempt	attempted	attempted
-severe	adj.	严厉的			
-serve	v.	服务	serve	served	served
-interiors	n.	室内			
-personalize	v.	使个性化	personalize	personalized	personalized
-libel	n.	文字诽谤			
-slander	n.	言语诋毁			
+单词 	              词性	  含义 	  动词原形 	  过去式 	   过去分词 
+typical	 type       adj.	  典型的			
+grassland	          n.	    草原			
+dwellers	          n.	    居民	dwell	dwelt / dwelled	dwelt / dwelled
+continent	          n.	    大陆，洲			
+antelope	          n.	    羚羊			
+pronghorn	          n.	    叉角羚			
+irritating	        adj.	  刺激性的	irritate	irritated	irritated
+effect	            n.	    影响			
+phenol	            n.	    苯酚			
+general	            adj.	  通用的			
+antiseptic	        n.	    消毒剂			
+largely	            adv.	  很大程度上			
+content	            n./adj.	内容/满足的			
+remain	            v.	保持，依然	remain	remained	remained
+existence	          n.	存在	exist	existed	existed
+profit-making	      adj.	营利性的			
+produce	            v.	生产	produce	produced	produced
+consider	          v.	考虑	consider	considered	considered
+desirable	          adj.	值得拥有的		desire	
+simply	            adv.	简单地			
+directly	          adv.	直接地			
+effectively	        adv.	有效地			effect
+employ	            v.	采用	employ	employed	employed
+flowery	            adj.	辞藻华丽的			
+vague	              adj.	含糊的			
+expressions	        n.	表达			
+obscure	            v./adj.	遮掩/默默无闻	obscure	obscured	obscured
+mean	              v.	意思是	mean	meant	meant
+meaning	            n.	意思			
+mechanized	        adj.	机械化的	mechanize	mechanized	mechanized
+attempt	            v.	试图，尝试	attempt	attempted	attempted
+severe	            adj.	严厉的			
+serve	              v.	服务	serve	served	served
+interior	          n.	室内			
+personalize	        v.	使个性化	personalize	personalized	personalized
+libel	              n.	文字诽谤			
+slander	            n.	言语诋毁			
 joint	n./adj.	关节, 联合的			
 thigh bone	n.	股骨, 大腿骨			
 lower leg	n.	小腿			
