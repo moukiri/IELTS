@@ -36,13 +36,13 @@ interior	          n.	室内
 personalize	        v.	使个性化	personalize	personalized	personalized
 libel	              n.	文字诽谤			
 slander	            n.	言语诋毁			
-joint	n./adj.	关节, 联合的			
-thigh bone	n.	股骨, 大腿骨			
-lower leg	n.	小腿			
-meet	v.	相接, 遇见	meet	met	met
-effort	n.	努力			
-Acid	n.	酸			
-bases	n.	碱, 基底			
+joint	              n./adj.	关节, 联合的			
+thigh bone	        n.	股骨, 大腿骨			
+lower leg	          n.	小腿			
+meet	              v.	相接, 遇见	meet	met	met
+effort	            n.	努力			
+Acid	              n.	酸			
+bases	              n.	碱, 基底			
 metals	n.	金属			
 ability	n.	能力			
 compound	n.	化合物			
