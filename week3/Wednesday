@@ -1,12 +1,38 @@
 9.The application of electronic controls made possible by the microprocessor and computer storage have multiplied the uses of the modern typewriter.
-electronic
-microprocessor
-multiply
-typewriter
+电子控制的应用，通过微处理器和计算机存储器使得可能的，已经被增加了现代打字机的用途
+通过微处理器和计算机存储技术，使电子控制系统的应用成为可能，极大地扩展了现代打字机的用途   
+apply: [v]使用 应用→application[n]申请 使用 运用
+electronic: [adj]电子的
+control: [n/v]控制/控制装置→controls[n复数]控制装置 控制系统
+microprocessor: [n]微处理器
+multiply: [v/adv]乘/倍增
+typewriter: [n]打字机
+
+主语：The application
+主语被加长：
+The application
+ └─ of electronic controls
+     └─ made possible by the microprocessor and computer storage
+谓语：have multiplied
+宾语：the uses
+
+made possible by the microprocessor and computer storage：过去分词短语作后置定语，修饰 controls
+have multiplied：现在完成时
+The application of electronic controls→have mutiplied：controls这里是复数对应用have
+the ues of the modern typewriter: A of B→B的A→现代打字机的用途
+
+
 
 
 10.The human skeleton consists of more than two hundred bones bound together by tough and relatively inelastic connective tissues called ligaments.
-
+consist
+consist of
+bound
+tough
+relatively
+inelastic
+tissues
+ligament
 
 11.The pigmentation of a pearl is influenced by the type of oyster in which it develops and by the depth, temperature, and the salt content of the water in which the oyster lives.
 
